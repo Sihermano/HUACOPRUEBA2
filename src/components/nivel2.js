@@ -7,13 +7,13 @@ const Nivel1 = () => {
             <volver></volver>
             <div className='text-white leading-[48px] text-[47px] font-sans font-[650] -tracking-[.02em] lg:text-[80px] lg:leading-[82px]'>WAKO.Benefits nivel 2</div>
             <div>
-                <p className='text-white text-[0px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>En este documento detallaremos los WAKO.Benefits a los cuales estarán sujetos todos los holders del proyecto.</p>
+                <p className='text-white text-[15px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>En este documento detallaremos los WAKO.Benefits a los cuales estarán sujetos todos los holders del proyecto.</p>
             </div>
             <div>
-                <p className='text-white text-[0px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>Los beneficios están separados en 2 niveles, estos serán desbloqueados en la primera etapa del proyecto con el fin de maximizar el beneficio de los early supporters, a continuación el detalle:</p>
+                <p className='text-white text-[15px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>Los beneficios están separados en 2 niveles, estos serán desbloqueados en la primera etapa del proyecto con el fin de maximizar el beneficio de los early supporters, a continuación el detalle:</p>
             </div>
             <div>
-                <p className='text-white text-[0px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>Nivel 2:</p>
+                <p className='text-white text-[15px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>Nivel 2:</p>
             </div>
             
             <table className="">
@@ -44,19 +44,19 @@ const Nivel1 = () => {
             </table>
 
             <div>
-                <p className='text-white text-[0px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>ID 4: A partir del segundo nivel de WAKO.Benefits, se comenzarán a programar webinars acerca de temas Web3 (NFTs, Crypto, DEFI, Gaming, ETC). Se han planificado 6 sesiones de webinars, los temas a tratar y cantidad de sesiones pueden variar si se observa que la comunidad tiene una preferencia marcada.</p>
+                <p className='text-white text-[15px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>ID 4: A partir del segundo nivel de WAKO.Benefits, se comenzarán a programar webinars acerca de temas Web3 (NFTs, Crypto, DEFI, Gaming, ETC). Se han planificado 6 sesiones de webinars, los temas a tratar y cantidad de sesiones pueden variar si se observa que la comunidad tiene una preferencia marcada.</p>
             </div>
 
             <div>
-                <p className='text-white text-[0px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>ID 5: De manera mensual Rafael estará sacando un nuevo capítulo de “Wakoverse & Wakothology" en nuestro servidor de Discord. No puedes perderte de esta experiencia.</p>
+                <p className='text-white text-[15px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>ID 5: De manera mensual Rafael estará sacando un nuevo capítulo de “Wakoverse & Wakothology" en nuestro servidor de Discord. No puedes perderte de esta experiencia.</p>
             </div>
 
             <div>
-                <p className='text-white text-[0px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>ID 6: Finalmente Rafael lanzará una master class grabada acerca de algún tema relacionado al arte, el tema se pondrá en votación para la comunidad.</p>
+                <p className='text-white text-[15px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>ID 6: Finalmente Rafael lanzará una master class grabada acerca de algún tema relacionado al arte, el tema se pondrá en votación para la comunidad.</p>
             </div>
 
             <div>
-                <p className='text-white text-[0px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>*Disclaimer: La duración y periodicidad de los beneficios está sujeta a la aceptación de la comunidad.</p>
+                <p className='text-white text-[15px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>*Disclaimer: La duración y periodicidad de los beneficios está sujeta a la aceptación de la comunidad.</p>
             </div>
         </div>
     )

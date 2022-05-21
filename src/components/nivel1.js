@@ -7,13 +7,13 @@ const Nivel1 = () => {
             <volver></volver>
             <div className='text-white leading-[48px] text-[47px] font-sans font-[650] -tracking-[.02em] lg:text-[80px] lg:leading-[82px]'>Génesis Collection</div>
             <div>
-                <p className='text-white text-[0px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>En este documento detallaremos los WAKO.Benefits a los cuales estarán sujetos todos los holders del proyecto.</p>
+                <p className='text-white text-[15px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>En este documento detallaremos los WAKO.Benefits a los cuales estarán sujetos todos los holders del proyecto.</p>
             </div>
             <div>
-                <p className='text-white text-[0px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>Los beneficios están separados en 2 niveles, estos serán desbloqueados en la primera etapa del proyecto con el fin de maximizar el beneficio de los early supporters, a continuación el detalle:</p>
+                <p className='text-white text-[15px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>Los beneficios están separados en 2 niveles, estos serán desbloqueados en la primera etapa del proyecto con el fin de maximizar el beneficio de los early supporters, a continuación el detalle:</p>
             </div>
             <div>
-                <p className='text-white text-[0px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>Nivel 0:</p>
+                <p className='text-white text-[15px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>Nivel 0:</p>
             </div>
             
             <table className="">
@@ -32,11 +32,11 @@ const Nivel1 = () => {
             </table>
 
             <div>
-                <p className='text-white text-[0px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>ID 0: Todos los holders tendrán acceso temprano a las futuras colecciones de Rafael Lanfranco.</p>
+                <p className='text-white text-[15px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>ID 0: Todos los holders tendrán acceso temprano a las futuras colecciones de Rafael Lanfranco.</p>
             </div>
 
             <div>
-                <p className='text-white text-[0px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>Nivel 1:</p>
+                <p className='text-white text-[15px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>Nivel 1:</p>
             </div>
 
             <table className="">
@@ -67,15 +67,15 @@ const Nivel1 = () => {
             </table>
 
             <div>
-                <p className='text-white text-[0px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>ID 1: Los Q & A con Rafael Lanfranco serán sesiones en vivo a través de nuestro Discord, donde todos los holders podrán ingresar a una charla dirigida por Rafael, cada charla tendrá un tema diferente y los participantes podrán realizar todas las preguntas que quieran. Se prevé que de inicio se manejarán 6 sesiones de Q & A, si vemos que la comunidad responde positivamente se puede extender el beneficio.</p>
+                <p className='text-white text-[15px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>ID 1: Los Q & A con Rafael Lanfranco serán sesiones en vivo a través de nuestro Discord, donde todos los holders podrán ingresar a una charla dirigida por Rafael, cada charla tendrá un tema diferente y los participantes podrán realizar todas las preguntas que quieran. Se prevé que de inicio se manejarán 6 sesiones de Q & A, si vemos que la comunidad responde positivamente se puede extender el beneficio.</p>
             </div>
 
             <div>
-                <p className='text-white text-[0px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>ID 2: Una vez al mes los holders podrán inscribirse a una visita guiada al estudio de Rafael, en esta visita Rafael les mostrará su espacio de trabajo y les irá contando el concepto detrás de la obra que verán en vivo. Se han planificado 6 visitas guiadas en grupos, si vemos que a la comunidad le interesa este evento se extenderá el tiempo.</p>
+                <p className='text-white text-[15px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>ID 2: Una vez al mes los holders podrán inscribirse a una visita guiada al estudio de Rafael, en esta visita Rafael les mostrará su espacio de trabajo y les irá contando el concepto detrás de la obra que verán en vivo. Se han planificado 6 visitas guiadas en grupos, si vemos que a la comunidad le interesa este evento se extenderá el tiempo.</p>
             </div>
 
             <div>
-                <p className='text-white text-[0px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>ID 3: Todos los holders obtendrán descuentos especiales en el arte que ofrezca Rafael Lanfranco. En el Discord se publicarán ofertas super especiales solo para NFT holders, como por ejemplo, piezas seleccionadas con 50% de descuento.</p>
+                <p className='text-white text-[15px] font-sans font-[450] opacity-[.6] lg:text-[26px]'>ID 3: Todos los holders obtendrán descuentos especiales en el arte que ofrezca Rafael Lanfranco. En el Discord se publicarán ofertas super especiales solo para NFT holders, como por ejemplo, piezas seleccionadas con 50% de descuento.</p>
             </div>
         </div>
     )
